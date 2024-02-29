@@ -1,0 +1,33 @@
+repo_name: somecodework/somecodework.github.io
+report_id: 46a6a989f62d4d8d622e1424577dab0e
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:48:34+00:00'
+requested_by: somecodework
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/somecodework/somecodework.github.io/blob/main/flexsearch.min.js
+  detection_source: flexsearch.min.js
+  last_updated_by: masaka9
+  last_updated_on: 2022-08-25 07:33:22.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/somecodework/somecodework.github.io
+  detection_source: Repo Metadata
